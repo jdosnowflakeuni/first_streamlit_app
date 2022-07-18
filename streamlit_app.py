@@ -2,8 +2,8 @@ import streamlit
 import pandas
 import requests
 import snowflake.connector
-import cffi==1.15.0
-import pyarrow==6.0.1
+import cffi
+import pyarrow
 
 streamlit.title('My Parents New Healthy Diner')
 
